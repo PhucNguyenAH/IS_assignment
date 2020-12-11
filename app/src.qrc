@@ -1,0 +1,10 @@
+  
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>resources/img/empty.png</file>
+    <file>resources/main.qml</file>
+    <file>resources/appOption.qml</file>
+    <file>resources/appImage.qml</file>
+    <file>resources/appVideo.qml</file>
+</qresource>
+</RCC>
